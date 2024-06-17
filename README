@@ -6,4 +6,4 @@ personal vpn subscriptions. And of those, many of them were looking for things l
 3. Hidden files/.bash history
 
 They were looking for vunerabilities in my website. I compiled a list of these I belive to be malicious, and created a simple python script
-that one would use when probing a website.
+that one would use when probing a website, as well as a few tweaks of my own that I would find useful.
