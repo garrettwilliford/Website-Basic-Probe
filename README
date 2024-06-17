@@ -1,0 +1,9 @@
+When running my website, I noticed I was getting hundreds of ip's that didnt do much besides hit the main server.
+After some research I concluded a majorty of them were automated bots logging my website. However, some ips were operating under
+personal vpn subscriptions. And of those, many of them were looking for things like
+1. Wordpress Login Pages
+2. Azure cloud rules
+3. Hidden files/.bash history
+
+They were looking for vunerabilities in my website. I compiled a list of these I belive to be malicious, and created a simple python script
+that one would use when probing a website.
